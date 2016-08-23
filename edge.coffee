@@ -9,4 +9,5 @@ module.exports =
 	initialization: commonImg.initialization
 	yocto:
 		machine: ''
-		deployArtifact: ''
+		deployArtifact: 'empty'
+		archive: true
