@@ -3,6 +3,7 @@ deviceTypesCommon = require 'resin-device-types/common'
 
 module.exports =
 	slug: 'edge'
+	isDependent: true
 	name: 'Edge Device Builder'
 	arch: 'amd64'
 	state: 'released'
