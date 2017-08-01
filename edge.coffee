@@ -6,7 +6,7 @@ module.exports =
 	isDependent: true
 	name: 'Edge Device Builder'
 	arch: 'amd64'
-	state: 'deprecated'
+	state: 'discontinued'
 	initialization: commonImg.initialization
 	yocto:
 		machine: ''
